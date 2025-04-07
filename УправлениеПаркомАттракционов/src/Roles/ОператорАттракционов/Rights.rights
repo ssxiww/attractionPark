@@ -88,10 +88,6 @@
 			<value>true</value>
 		</right>
 		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
 			<name>Update</name>
 			<value>true</value>
 		</right>
@@ -125,6 +121,10 @@
 		</right>
 		<right>
 			<name>InteractiveChangeOfPosted</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InputByString</name>
 			<value>true</value>
 		</right>
 	</object>
