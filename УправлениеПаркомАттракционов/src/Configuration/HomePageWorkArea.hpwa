@@ -8,7 +8,7 @@
       <visibility>
         <common>true</common>
         <for>
-          <role>Role.ОператорАттракционов</role>
+          <role>Role.ОператорАттракциона</role>
         </for>
         <for>
           <role>Role.ПолныеПрава</role>
